@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+[Python](https://img.shields.io/badge/Python-3776AB?
+style=flat-square&logo=python&logoColor=white) ![Pytorch]
+(https://img.shields.io/badge/Pytorch-EE4C2C?style=flat
+square&logo=pytorch&logoColor=white) ![Linux]
+(https://img.shields.io/badge/Linux-FCC624?style=flat
+square&logo=linux&logoColor=black) ![Ubuntu]
+(https://img.shields.io/badge/Ubuntu-E95420?style=flat
+square&logo=ubuntu&logoColor=white)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
